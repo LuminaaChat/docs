@@ -4,7 +4,7 @@ import {withMermaid} from "vitepress-plugin-mermaid";
 export default withMermaid({
     title: "Luminaa arc42",
     description: "Technische Dokumentation für Luminaa",
-    base: "/docs/",
+    base: "/",
     mermaid: {
         // refer https://mermaid.js.org/config/setup/modules/mermaidAPI.html#mermaidapi-configuration-defaults for options
     },
@@ -16,7 +16,7 @@ export default withMermaid({
         // https://vitepress.dev/reference/default-theme-config
         nav: [
             {text: 'Home', link: '/'},
-            {text: 'German', link: '/arc42/german/01_introduction_and_goals'}
+            {text: 'Dokumentat', link: '/arc42/german/01_introduction_and_goals'}
         ],
 
 
