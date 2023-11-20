@@ -16,7 +16,9 @@ export default withMermaid({
         // https://vitepress.dev/reference/default-theme-config
         nav: [
             {text: 'Home', link: '/'},
-            {text: 'Dokumentat', link: '/arc42/german/01_introduction_and_goals'}
+            {text: 'Dokumentation', link: '/arc42/german/01_introduction_and_goals'},
+            {text: 'Konzept', link: '/concept/index'},
+            {text: 'Links', link: '/links/index'}
         ],
 
 
@@ -37,9 +39,12 @@ export default withMermaid({
                 {text: 'Über arc42', link: '/arc42/german/about-arc42'},
                 {text: 'Arc42 Template', link: '/arc42/german/arc42-template'}
             ],
+            "/concept/": [
+                {text: 'Index', link: '/concept/index'}
+            ],
         },
         socialLinks: [
-            {icon: 'github', link: 'https://github.com/DenHerrRing/arc42-vitepress'},
+            {icon: 'github', link: 'https://github.com/LuminaaChat'},
         ]
     }
 })

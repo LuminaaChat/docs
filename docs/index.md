@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "luminaa.arc42"
-  text: "Luminaa.Chat"
-  tagline: "Technische Dokumentation"
+  name: "luminaa.chat"
+  text: ""
+  tagline: "Dokumentationen"
   actions:
     - theme: brand
       text: arc42.org

@@ -1,0 +1,5 @@
+# Linksammlung
+
+- Discord
+- Figma
+- Miro
