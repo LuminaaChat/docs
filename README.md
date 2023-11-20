@@ -1,4 +1,4 @@
-# arc42-vitepress
+# luminaa.chat docs
 
 ## Steps
 

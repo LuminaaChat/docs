@@ -2,7 +2,7 @@ import {withMermaid} from "vitepress-plugin-mermaid";
 
 // https://vitepress.dev/reference/site-config
 export default withMermaid({
-    title: "Luminaa arc42",
+    title: "luminaa.chat",
     description: "Technische Dokumentation für Luminaa",
     base: "/",
     mermaid: {
