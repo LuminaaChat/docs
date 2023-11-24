@@ -40,7 +40,10 @@ export default withMermaid({
             "/konzept/": [
                 {text: 'Einleitung', link: '/konzept/index'},
                 {text: 'Benutzergruppenprofile', link: '/konzept/benutzergruppenprofile/benutzergruppenprofile'},
-                {text: 'Kommunikation zwischen', link: '/konzept/kommunikation/kommunikation'}
+                {text: 'Kommunikation zwischen', link: '/konzept/kommunikation/kommunikation'},
+                {text: 'Use Cases', link: '/konzept/usecases/usecases'},
+                {text: 'Organisationsaufbau', link: '/konzept/organisationsaufbau/organisationsaufbau'},
+                {text: 'Feature Map', link: '/konzept/featuremap/featuremap'}
             ],
         },
         socialLinks: [
