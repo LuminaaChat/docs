@@ -85,9 +85,30 @@ concepts](images/08-Crosscutting-Concepts-Structure-DE.png)
 Siehe [Querschnittliche Konzepte](https://docs.arc42.org/section-8/) in
 der online-Dokumentation (auf Englisch).
 
-## *\<Konzept 1>*
+## Rollen & Rechte
 
-*\<Erklärung>*
+## Permissions
+
+|abbreviation|description| hint          |
+|----|----|---------------|
+|C|Create|               |
+|D|Delete|               |
+|R|Read|               |
+|E|Export|               |
+|M|Mute|               |
+|P|Pin| Messages only |
+|X|Forbidden|               |
+
+## Assignments
+
+|Roll/Object | Messages|(Group)-Chat|Group-Users|Groups|Users|Archive|Contacts|
+|----|----|----|----|----|----|----|----|
+|**User-Client**|C,R|R|R|-|-|X|-|
+|**User-Employee**|C,D,R,P (assigned)|R,E*|R,M|-|-|X|R|
+|**User-Leg.Guardian**|C,R|R|R|-|-|X|-|
+|**Admin-Functional**|X|C,D|C,D,R|C,D,R,E|C,D,R,E|X|C,D,R|
+|**User-Supervisor**|C,D,R,P (all)|R,E|R,M|R|R|X|R|
+|**root**|X|C,D,R|C,D,R|C,D,R|C,D,R|R,E|C,D,R|
 
 ## *\<Konzept 2>*
 
