@@ -43,7 +43,8 @@ export default withMermaid({
                 {text: 'Kommunikation zwischen', link: '/konzept/kommunikation/kommunikation'},
                 {text: 'Use Cases', link: '/konzept/usecases/usecases'},
                 {text: 'Organisationsaufbau', link: '/konzept/organisationsaufbau/organisationsaufbau'},
-                {text: 'Feature Map', link: '/konzept/featuremap/featuremap'}
+                {text: 'Feature Map', link: '/konzept/featuremap/featuremap'},
+                {text: 'Epics', link: '/konzept/epics/epics'}
             ],
         },
         socialLinks: [
