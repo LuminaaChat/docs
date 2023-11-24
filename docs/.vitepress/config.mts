@@ -41,7 +41,8 @@ export default withMermaid({
             ],
             "/concept/": [
                 {text: 'Einleitung', link: '/concept/index'},
-                {text: 'Benutzergruppenprofile', link: '/concept/benutzergruppenprofile'}
+                {text: 'Benutzergruppenprofile', link: '/concept/benutzergruppenprofile'},
+                {text: 'Kommunikation zwischen', link: '/concept/kommunikation'}
             ],
         },
         socialLinks: [
