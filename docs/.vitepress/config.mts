@@ -40,7 +40,8 @@ export default withMermaid({
                 {text: 'Arc42 Template', link: '/arc42/german/arc42-template'}
             ],
             "/concept/": [
-                {text: 'Index', link: '/concept/index'}
+                {text: 'Einleitung', link: '/concept/index'},
+                {text: 'Benutzergruppenprofile', link: '/concept/benutzergruppenprofile'}
             ],
         },
         socialLinks: [
