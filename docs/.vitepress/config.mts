@@ -3,7 +3,7 @@ import {withMermaid} from "vitepress-plugin-mermaid";
 // https://vitepress.dev/reference/site-config
 export default withMermaid({
     title: "luminaa.chat",
-    description: "Technische Dokumentation für Luminaa",
+    description: "Dokumentation für Luminaa Chat",
     base: "/",
     mermaid: {
         // refer https://mermaid.js.org/config/setup/modules/mermaidAPI.html#mermaidapi-configuration-defaults for options
@@ -17,7 +17,7 @@ export default withMermaid({
         nav: [
             {text: 'Home', link: '/'},
             {text: 'Dokumentation', link: '/arc42/german/01_introduction_and_goals'},
-            {text: 'Konzept', link: '/concept/index'},
+            {text: 'Konzept', link: '/konzept/index'},
             {text: 'Links', link: '/links/index'}
         ],
 
@@ -40,9 +40,9 @@ export default withMermaid({
                 {text: 'Arc42 Template', link: '/arc42/german/arc42-template'}
             ],
             "/concept/": [
-                {text: 'Einleitung', link: '/concept/index'},
-                {text: 'Benutzergruppenprofile', link: '/concept/benutzergruppenprofile/benutzergruppenprofile'},
-                {text: 'Kommunikation zwischen', link: '/concept/kommunikation/kommunikation'}
+                {text: 'Einleitung', link: '/konzept/index'},
+                {text: 'Benutzergruppenprofile', link: '/konzept/benutzergruppenprofile/benutzergruppenprofile'},
+                {text: 'Kommunikation zwischen', link: '/konzept/kommunikation/kommunikation'}
             ],
         },
         socialLinks: [
