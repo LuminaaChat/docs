@@ -10,7 +10,7 @@
 
 ## Website (GitHub Pages)
 
-https://denherrring.github.io/arc42-vitepress/
+https://docs.luminaa.chat
 
 
 ## Used Packages
