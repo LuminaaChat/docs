@@ -5,26 +5,21 @@ layout: home
 hero:
   name: "luminaa.chat"
   text: ""
-  tagline: "Dokumentationen"
+  tagline: ""
   actions:
     - theme: brand
-      text: arc42.org
-      link: https://arc42.org/overview
+      text: discord
+      link: https://discord.gg/AdKWMXrbds
     - theme: alt
-      text: vitepress
-      link: https://vitepress.dev/
-    - theme: alt
-      text: mermaid
-      link: http://mermaid.js.org/
+      text: github
+      link: https://github.com/LuminaaChat
 
 features:
-  - title: German
-    details: arc42 arc42 in german with help
-  - title: English
-    details: arc42 arc42 in english with help
-  - title: Introductions
-    details: Contains explanations for every section based on arc42
-  - title: mermaid js
-    details: "Diagramming and charting tool: JavaScript based diagramming and charting tool that renders Markdown-inspired text definitions to create and modify diagrams dynamically."
+  - title: Dokumentation
+    details: Hier findest du die technische Dokumentation auf Basis des arc42 Frameworks.
+  - title: Konzept
+    details: Hier findest du das Konzept, welches auf dem World Usability Day ausgearbeitet wurde.
+  - title: Links
+    details: Hier findest du eine Sammlung von Links
 ---
 
