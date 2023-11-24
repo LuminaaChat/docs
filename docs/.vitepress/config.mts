@@ -20,8 +20,6 @@ export default withMermaid({
             {text: 'Konzept', link: '/konzept/index'},
             {text: 'Links', link: '/links/index'}
         ],
-
-
         sidebar: {
             "/arc42/german/": [
                 {text: '01 Einführung und Ziele', link: '/arc42/german/01_introduction_and_goals'},
@@ -39,7 +37,7 @@ export default withMermaid({
                 {text: 'Über arc42', link: '/arc42/german/about-arc42'},
                 {text: 'Arc42 Template', link: '/arc42/german/arc42-template'}
             ],
-            "/concept/": [
+            "/konzept/": [
                 {text: 'Einleitung', link: '/konzept/index'},
                 {text: 'Benutzergruppenprofile', link: '/konzept/benutzergruppenprofile/benutzergruppenprofile'},
                 {text: 'Kommunikation zwischen', link: '/konzept/kommunikation/kommunikation'}
