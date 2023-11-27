@@ -1,6 +1,6 @@
 # Kommunikation zwischen
 
-[![Übersicht: Kommunikation](images/kommunikation.png)](images/kommunikation.png)
+[![Übersicht: Kommunikation](images/kommunikation.png)](/konzept/kommunikation/images/kommunikation.png)
 
 ## Mitarbeiter <-> Mitarbeiter
 
