@@ -45,7 +45,7 @@ export default withMermaid({
                 {text: 'Organisationsaufbau', link: '/konzept/organisationsaufbau/organisationsaufbau'},
                 {text: 'Feature Map', link: '/konzept/featuremap/featuremap'},
                 {text: 'Epics', link: '/konzept/epics/epics'},
-                {text: 'Daten & Logik', link: '/datenmodelle/datenmodelle'}
+                {text: 'Daten & Logik', link: '/konzept/datenmodelle/datenmodelle'}
             ],
         },
         socialLinks: [
