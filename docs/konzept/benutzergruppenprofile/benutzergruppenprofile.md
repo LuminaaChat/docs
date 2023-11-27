@@ -1,25 +1,25 @@
 # Benutzergruppenprofile
 
 ## Administration
-[![Tabelle: Administration](images/administration.png)](/konzept/benutzergruppenprofile/images/administration.png)
+[![Tabelle: Administration](images/administration.png)](images/administration.png)
 
 
 ## Mitarbeitende im ambulanten Bereich
 
-[![Tabelle: Mitarbeiter Ambulant](images/ma_ambulant.png)](/konzept/benutzergruppenprofile/images/ma_ambulant.png)
+[![Tabelle: Mitarbeiter Ambulant](images/ma_ambulant.png)](images/ma_ambulant.png)
 
 ## Mitarbeitende im stationären Bereich
 
 
-[![Tabelle: Mitarbeiter Stationär](images/ma_stationaer.png)](/konzept/benutzergruppenprofile/images/ma_stationaer.png)
+[![Tabelle: Mitarbeiter Stationär](images/ma_stationaer.png)](images/ma_stationaer.png)
 
 
 ## Klienten
 
-[![Tabelle: Klienten](images/klienten.png)](/konzept/benutzergruppenprofile/images/klienten.png)
+[![Tabelle: Klienten](images/klienten.png)](images/klienten.png)
 
 ## Erziehungsberechtigte
 
 *Out of Scope: Feature!*
 
-[![Tabelle: Erziehungsberechtigte](images/erziehungsberechtigte.png)](/konzept/benutzergruppenprofile/images/erziehungsberechtigte.png)
+[![Tabelle: Erziehungsberechtigte](images/erziehungsberechtigte.png)](images/erziehungsberechtigte.png)

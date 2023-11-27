@@ -6,12 +6,12 @@
 
 ## Ambulant
 
-[![Ambulant](images/ambulant.png)](/konzept/datenmodelle/images/ambulant.png)
+[![Ambulant](images/ambulant.png)](./images/ambulant.png)
 
 ## System
 
-[![System](images/systemgruppen.png)](/konzept/datenmodelle/images/systemgruppen.png)
+[![System](images/systemgruppen.png)](./images/systemgruppen.png)
 
 ## Datenmodelle
 
-[![Datenmodelle](images/modelle.png)](/konzept/datenmodelle/images/modelle.png)
+[![Datenmodelle](images/modelle.png)](./images/modelle.png)

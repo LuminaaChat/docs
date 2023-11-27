@@ -1,3 +1,3 @@
 # Organisationsaufbau
 
-[![Organisationsaufbau](images/organisationsaufbau.png)](/konzept/organisationsaufbau/images/organisationsaufbau.png)
+[![Organisationsaufbau](images/organisationsaufbau.png)](images/organisationsaufbau.png)

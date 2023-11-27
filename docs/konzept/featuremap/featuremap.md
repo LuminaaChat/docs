@@ -2,8 +2,8 @@
 
 ## First Draft
 
-[![First Draft Feature Map](images/firstdraft.png)](/konzept/featuremap/images/firstdraft.png)
+[![First Draft Feature Map](images/firstdraft.png)](images/firstdraft.png)
 
 ## Priorisiert
 
-[![Priorisierte Feature Map](images/priorisiert.png)](/konzept/featuremap/images/priorisiert.png)
+[![Priorisierte Feature Map](images/priorisiert.png)](images/priorisiert.png)
