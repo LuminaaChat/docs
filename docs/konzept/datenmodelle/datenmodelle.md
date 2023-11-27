@@ -2,7 +2,7 @@
 
 ## Stationär
 
-[![Stationär](images/stationaer.png)](./images/stationaer.png)
+[![Stationär](images/stationaer.png)](/konzept/datenmodelle/images/stationaer.png)
 
 ## Ambulant
 
